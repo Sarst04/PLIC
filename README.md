@@ -78,3 +78,11 @@ The PLIC registers are memory-mapped. Below is the address decoding layout:
 For a comprehensive guide, C macros, and complete bare-metal integration examples, please refer to the software documentation:
 
 **[Software Integration Guide](doc/software.md)**
+
+---
+
+## Architecture Schematic
+
+![PLIC Architecture Schematic](doc/schematic/plic.svg)
+
+---
